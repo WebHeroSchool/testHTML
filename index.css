@@ -1,0 +1,41 @@
+.site {
+  padding: 10px;
+  font-family: sans-serif;
+}
+.mag-name {
+  color: grey;
+  font-style: oblique;
+}
+.autor-name {
+   text-decoration: underline;
+   text-decoration-color: RoyalBlue;
+   text-decoration-style: solid;
+   padding-bottom: 10 px;
+}
+.article-name {
+  padding-left: 10px;
+  color: MidnightBlue;
+  background: LightSteelBlue;
+  border: 2px solid;
+  border-style: double;
+  border-color: SteelBlue;
+  border-radius: 0 0 20px 20px;  
+}
+.first-row {
+  font-size: 18pt;
+  font-kerning: auto;
+}
+.second-row {
+  font-size: 16pt;
+}
+.list {
+  list-style-type: square;
+  list-style-position: outside;
+  }
+td {
+  vertical-align: top;
+  width: 50%;
+}
+table {
+  width: 100%;
+}
